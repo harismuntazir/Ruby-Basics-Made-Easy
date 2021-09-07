@@ -1,0 +1,2 @@
+This text will be written in the file myfile.txt
+And this line too !!

@@ -1,0 +1,7 @@
+this is a log file 
+to test the File Handling 
+in Ruby. 
+So, I am 
+entering some text in 
+this file and will test on 
+this later.
